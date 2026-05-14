@@ -5,6 +5,7 @@
 *.log
 *.gz
 *.fls
+*.tex
 *.fdb_latexmk
 *.bbl
 *.blg
