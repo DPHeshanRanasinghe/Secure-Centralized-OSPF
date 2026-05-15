@@ -1,9 +1,7 @@
 SC-OSPF: Secure and Centralized OSPF
 =====================================
 
-EN2150 Communication Network Engineering -- Assignment 04
-University of Moratuwa, Department of Electronic and Telecommunication Engineering
-Semester 4, Batch 23
+EN2150 Communication Network Engineering 
 
 Group Members
 -------------
