@@ -3,13 +3,6 @@ SC-OSPF: Secure and Centralized OSPF
 
 EN2150 Communication Network Engineering 
 
-Group Members
--------------
-Wedamestrige A.N.          -- 230687P
-Ranathunga R.J.K.O.H.      -- 230525U
-Ranasinghe D.P.H.          -- 230521E
-Kumarasinghe M.N.          -- 230355X
-
 
 Overview
 --------
