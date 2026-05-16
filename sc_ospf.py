@@ -1,6 +1,6 @@
 """
 sc_ospf.py — SC-OSPF: Secure & Centralized OSPF (Proposed Protocol)
-EN2150 Assignment 4
+
 
 Improvements over standard OSPF:
 

@@ -1,6 +1,5 @@
 """
 main.py — SC-OSPF Simulation Runner
-EN2150 Assignment 4
 
 Runs all experiments and generates all figures used in the report:
   Figure 1: Network topology diagram

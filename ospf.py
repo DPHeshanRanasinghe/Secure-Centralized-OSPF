@@ -1,6 +1,6 @@
 """
 ospf.py — Standard OSPF Protocol Simulation
-EN2150 Assignment 4 — SC-OSPF Protocol
+
 
 Simulates:
   - LSA flooding across the network

@@ -1,6 +1,5 @@
 """
 topology.py — Network topology generation for SC-OSPF simulation
-EN2150 Assignment 4 — SC-OSPF Protocol
 """
 
 import networkx as nx
